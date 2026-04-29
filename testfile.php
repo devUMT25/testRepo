@@ -7,6 +7,6 @@
 </head>
 <body>
     <h2>Testing PHP</h2>
-    <?php echo "Hello"; ?>
+    <?php echo "Hello World"; ?>
 </body>
 </html>
