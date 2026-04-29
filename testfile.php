@@ -17,7 +17,7 @@
     <?php
         $s = "Ali";
         echo "Hello".$s;
-
+        echo "World";
     ?>
 </body>
 </html>
