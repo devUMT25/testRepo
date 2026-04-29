@@ -11,5 +11,13 @@
 
     <h3>A new heading</h3>
     <?php echo "Testing;" ?>
+
+    <h3>A new Heading here.</h3>
+
+    <?php
+        $s = "Ali";
+        echo "Hello".$s;
+
+    ?>
 </body>
 </html>
