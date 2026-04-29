@@ -8,5 +8,8 @@
 <body>
     <h2>Testing PHP</h2>
     <?php echo "Hello World"; ?>
+
+    <h3>A new heading</h3>
+    <?php echo "Testing;" ?>
 </body>
 </html>
